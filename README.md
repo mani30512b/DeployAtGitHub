@@ -9,6 +9,7 @@ Step 3: Open package.json, after the name line, add "homepage": "https://mani305
         "deploy": "gh-pages -d dist".
 
 Step 4: Open the VS Code terminal and run the following commands line by line:
+npm install gh -pages
 git init
 git add .
 git commit -m "Initial commit"
