@@ -6,7 +6,7 @@ Create a repository on GitHub, for example, **"DeployAtGitHub"**.
 ## Step 2: Update `vite.config.js`
 Open your project in VS Code, then open the file named **`vite.config.js`** and add:
 ```javascript
-base: "/DeployAtGitHub",
+base: "/<your_project_name>",
 ```
 after the `plugins` line.
 
